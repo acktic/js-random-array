@@ -2,12 +2,12 @@
 Randomize and return an array in javascript
 
 # use
-`returns new array`
+`returns new array`<br>
   let adjusted = array.slice();<br>
   randomize(adjusted);<br>
   
 or
-`returns same array`
+`returns same array`<br>
   randomize(array)
   
 `var randomize = function (array) {`<br>
