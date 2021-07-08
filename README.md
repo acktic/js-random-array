@@ -2,7 +2,7 @@
 Randomize and return an array in javascript
 
 # use
-  let new = array.slice()
+  let new = array.slice()>br?
   randomize(new)
   
 `var randomize = function (array) {`<br>
@@ -13,7 +13,7 @@ Randomize and return an array in javascript
 `  // While there remain elements to shuffle...`<br>
 `  while (0 !== currentIndex) {`<br>
 
-    // Pick a remaining element...`<br>
+`    // Pick a remaining element...`<br>
 `    randomIndex = Math.floor(Math.random() * currentIndex);`<br>
 `    currentIndex--;`<br>
 
